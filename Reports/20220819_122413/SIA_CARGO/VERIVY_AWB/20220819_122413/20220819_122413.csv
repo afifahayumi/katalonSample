@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VERIVY_AWB,,,,2022-08-19 12:24:16,2022-08-19 12:24:56,"39,715s",FAILED
+,,,,,,,
+Test Cases/SIA_CARGO/verifyElemetnAWB,,,,2022-08-19 12:24:17,2022-08-19 12:24:51,"34,285s",FAILED
+"openBrowser("""")",,,,2022-08-19 12:24:17,2022-08-19 12:24:51,"33,796s",FAILED
+,,,,,,,
+Test Cases/SIA_CARGO/verifyElemetnAWB,,,,2022-08-19 12:24:51,2022-08-19 12:24:53,"1,735s",FAILED
+"openBrowser("""")",,,,2022-08-19 12:24:51,2022-08-19 12:24:53,"1,682s",FAILED
+,,,,,,,
+Test Cases/SIA_CARGO/verifyElemetnAWB,,,,2022-08-19 12:24:53,2022-08-19 12:24:55,"1,522s",FAILED
+"openBrowser("""")",,,,2022-08-19 12:24:53,2022-08-19 12:24:55,"1,482s",FAILED
+,,,,,,,
+Test Cases/SIA_CARGO/verifyElemetnAWB,,,,2022-08-19 12:24:55,2022-08-19 12:24:56,"1,451s",FAILED
+"openBrowser("""")",,,,2022-08-19 12:24:55,2022-08-19 12:24:56,"1,415s",FAILED

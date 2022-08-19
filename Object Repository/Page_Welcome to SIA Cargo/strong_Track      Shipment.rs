@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Track      Shipment</name>
+   <tag></tag>
+   <elementGuidId>ef2d01f1-5d8c-4e7c-8b31-2bc19a201c3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='body']/div[4]/div[2]/div/button/strong
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>4361831d-e728-4226-939d-f04a061035dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Track
+      Shipment</value>
+      <webElementGuid>9f287c14-7097-4138-908e-096886dd2c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container-fluid container index&quot;]/div[@class=&quot;hidden-xs col-xs-12 container list-bar no-padding&quot;]/div[@class=&quot;list-bar-btm&quot;]/button[@class=&quot;btn btn-default&quot;]/strong[1]</value>
+      <webElementGuid>dfb7c3ac-05a9-4b72-931b-a8a48134cf0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='body']/div[4]/div[2]/div/button/strong</value>
+      <webElementGuid>fe35de5f-324f-4ca2-99ae-e5650b4dfcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Network Map'])[1]/preceding::strong[1]</value>
+      <webElementGuid>c58cbf41-524e-4e1f-a419-892ad2afd93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Track']/parent::*</value>
+      <webElementGuid>91c11855-7038-4e3e-8a85-23d25ef96933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>b3286967-cd37-4e7a-8625-933d634f4874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Track
+      Shipment' or . = 'Track
+      Shipment')]</value>
+      <webElementGuid>02aa16f5-3e0e-47a2-8601-674ef21f3b96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

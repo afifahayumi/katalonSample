@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AWB  618-45793705</name>
+   <tag></tag>
+   <elementGuidId>eacb5e0e-a515-4b5f-9ca7-a374b5854479</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.size-14</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resultArea']/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+          AWB : 618-45793705' or . = '
+          AWB : 618-45793705')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4e0fd2c0-93c7-4bf5-8cfe-1650874e9baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>c650311d-4a8a-42b8-ab92-4a1055cb8123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>size-14</value>
+      <webElementGuid>0eac624e-1c40-4ca9-8ab8-10ed682ee846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>891ba7f4-fe75-4ddf-bb5a-19184abbb2a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          AWB : 618-45793705</value>
+      <webElementGuid>5eaa61b9-5172-4af2-9321-77d04487976b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultArea&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;size-14&quot;]</value>
+      <webElementGuid>9a686359-6153-40cf-ad08-bdd01e591adf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resultArea']/table/tbody/tr/td</value>
+      <webElementGuid>ea6abec1-e803-48d2-bcc3-175d3182b00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Please check entries highlighted.'])[1]/following::td[1]</value>
+      <webElementGuid>212b1fb2-da4c-4494-b11b-145466fd3812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter at least 1 Air Waybill number for tracking'])[1]/following::td[1]</value>
+      <webElementGuid>a2fa2aec-8251-48f7-8e0b-bf1c088ce756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='618-45793705']/parent::*</value>
+      <webElementGuid>3f42aff4-c85c-46d5-ba29-c7fe28fc8a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td</value>
+      <webElementGuid>d2d4944e-21c0-4652-8647-9494829b28f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+          AWB : 618-45793705' or . = '
+          AWB : 618-45793705')]</value>
+      <webElementGuid>fafb6dd1-aca6-4ee3-9828-796891265278</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

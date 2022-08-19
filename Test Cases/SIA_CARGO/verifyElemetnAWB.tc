@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyElemetnAWB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a4f6048-847f-4eac-bde3-51e92e985c8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a40c9a3-d09b-4259-ba07-b0e918b2dd6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1a40c9a3-d09b-4259-ba07-b0e918b2dd6a</id>
+      <masked>false</masked>
+      <name>awbno</name>
+   </variable>
+</TestCaseEntity>
